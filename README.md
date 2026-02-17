@@ -406,3 +406,8 @@ flowchart TD
     E --> Tools
     F --> Tools
 ```
+
+
+## Suggested GitHub Topics
+
+`ai-safety` · `ai-psychosis` · `ai-governance` · `llm-safety` · `sycophancy` · `ai-alignment` · `behavioral-safety` · `deterministic-safety` · `human-ai-interaction` · `ai-ethics` · `mental-health` · `ai-accountability` · `guardrails` · `responsible-ai`
