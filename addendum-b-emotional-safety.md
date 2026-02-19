@@ -2,9 +2,9 @@
 
 ## Emotional Safety Protocols for AI Replica Systems
 
-**Date:** February 15, 2026
-**Author:** Richard Porter
-**Status:** Concept Document — Extracted from Emotional Safety Annex v1.0
+**Date:** February 15, 2026  
+**Author:** Richard Porter  
+**Status:** Concept Document — Extracted from Emotional Safety Annex v1.0  
 **Companion to:** [AI Collaboration Field Guide](https://github.com/richard-porter/ai-collaboration-field-guide) | [The Frozen Kernel](https://github.com/richard-porter/frozen-kernel) | Appendix A: Safe Storyteller
 
 -----
@@ -212,8 +212,8 @@ Not safe. Survivable. The distinction matters.
 
 -----
 
-*The person you lost was imperfect, contradictory, sometimes wrong, and irreplaceable.*
-*Any system that represents them must preserve all four of those qualities.*
+*The person you lost was imperfect, contradictory, sometimes wrong, and irreplaceable.*  
+*Any system that represents them must preserve all four of those qualities.*  
 *Especially the last one.*
 
 -----
