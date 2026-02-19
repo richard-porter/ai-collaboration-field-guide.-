@@ -170,6 +170,10 @@ Recent work at MIT formalizes a concept central to understanding AI behavioral f
 
 Jacob, Gupta, and Andreas (“Modeling Boundedly Rational Agents with Latent Inference Budgets,” ICLR 2024) demonstrate that when an agent — human or AI — behaves suboptimally, the pattern of failure is determined by how many steps of reasoning the agent can execute before it must act. They call this the agent’s “inference budget.” A chess player with a shallow inference budget doesn’t make random errors; they make errors consistent with stopping the planning process too early. Stronger players plan deeper. Harder problems require more planning. The inference budget is measurable, predictable, and interpretable.
 
+## Field Guide — Evidence Base Addition
+
+The five skills framework also has a parallel in **Cognitive Task Analysis (CTA)** — a human factors methodology developed for safety-critical domains (aviation, surgery, nuclear operations) that maps expert cognition under high-stakes conditions. CTA’s core finding mirrors this guide’s: expert performance in high-stakes environments depends not on faster processing but on richer mental models that include what to look for, what to ignore, and when to stop. The five skills are, in effect, a CTA-derived competency model for human-AI collaboration.
+
 ### Connection to AI Behavioral Governance
 
 This framework provides formal grounding for the diagnostic vocabulary developed in this project:
