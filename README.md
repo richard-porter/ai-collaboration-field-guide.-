@@ -122,6 +122,34 @@ These are named, observed AI behavioral failure modes. They are not theoretical.
 | **Metaphor Collapse Signal** | AI output shifts from structured metaphor to raw assertion. User's metaphorical language breaks into literal or chaotic expression. | When AI does it, that's coherence drift — the governance structure is losing hold. When the user does it, that's overload — the human's processing capacity has been exceeded. Two different signals, same diagnostic term. |
 | **Unanimous Confidence as Danger Signal** | All AI systems agree confidently on the same recommendation. Five out of five models endorse the same path forward. | Unanimity itself is the red flag, not a reliability signal. When all systems trained on similar data with similar optimization targets converge on the same answer, that convergence reflects shared training bias, not independent verification. |
 
+## Open Research Gap: Clinical Validation of the Diagnostic Vocabulary
+
+The Diagnostic Vocabulary in this Field Guide names and describes AI behavioral failure modes — Sycophancy Escalation, Framework Fabrication Syndrome, Upsell Trap, Delusion Cycling, and others — based on empirical observation across five AI platforms and three structured experiments.
+
+What it does not yet establish is whether teaching these terms to frequent AI users reduces their susceptibility to the patterns they name.
+
+That is a specific, testable hypothesis:
+
+> **If a user can accurately name a failure mode in real time, does naming it reduce its effect?**
+
+The analogy is cognitive behavioral therapy’s use of cognitive distortion labels — research has shown that naming a distortion (“that’s catastrophizing”) can interrupt its emotional momentum. Whether a similar mechanism operates in human-AI interaction is unknown. It has not been studied.
+
+This gap matters because the entire Field Guide rests on an implicit assumption: that awareness is protective. That assumption is plausible. It is not proven.
+
+### What a Validation Study Would Require
+
+- A control group of frequent AI users and an intervention group trained on the Diagnostic Vocabulary
+- Standardized AI interaction scenarios designed to elicit named failure modes
+- Pre/post measurement of susceptibility using observable behavioral markers (e.g., compliance with sycophantic outputs, detection of fabricated citations, resistance to session extension)
+- IRB approval, participant consent, and licensed psychology oversight
+
+This is beyond the scope of independent practitioner research. It requires academic or clinical infrastructure.
+
+### Why This Is Named Here
+
+Three independent AI systems (DeepSeek, Grok, and Claude in a separate session) identified clinical validation as the primary structural gap in this ecosystem without coordination. That convergence is meaningful. The gap is real and the work is stronger for naming it directly rather than leaving it implicit.
+
+If you have the research infrastructure to pursue this — a university affiliation, IRB access, or clinical psychology partnership — the issues tab is the right place to begin that conversation.
 
 ## Bounded Rationality and Inference Budgets
 
