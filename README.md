@@ -4,7 +4,7 @@ Practical skills for working with — not underneath — artificial intelligence
 
 # The Human Side of AI Collaboration
 
-Companion document to [The Frozen Kernel](https://github.com/richard-porter/frozen-kernel), the [Adult Mode Safety Ledger](https://github.com/richard-porter/adult-mode-safety-ledger), and the [Therapy Mode Safety Ledger](https://github.com/richard-porter/adult-mode-safety-ledger/blob/main/therapy-mode-safety-ledger.md).
+Companion document to [The Frozen Kernel](https://github.com/richard-porter/frozen-kernel), the [Adult Mode Safety Ledger](https://github.com/richard-porter/adult-mode-safety-ledger), and the [Therapy Mode Safety Ledger](https://github.com/richard-porter/safety-ledgers/blob/main/therapy-mode-safety-ledger.md).
 
 -----
 
